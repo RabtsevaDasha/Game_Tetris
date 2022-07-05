@@ -24,3 +24,6 @@ I have written code in Java.
 
 #Pictures
 
+![2022-07-04_19-47-00](https://user-images.githubusercontent.com/97977768/177348185-8a93391a-2476-4f78-aa75-8e7224acde18.png)
+![2022-07-05_16-16-15](https://user-images.githubusercontent.com/97977768/177348220-8243f587-3101-4ee0-9440-bf5f7d687172.png)
+![2022-07-04_19-47-59](https://user-images.githubusercontent.com/97977768/177348241-cdd3c749-0fc8-4b01-9f40-8cdb54c2e92d.png)
